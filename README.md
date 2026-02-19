@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Carol, a recent Computer & Telecommunications graduate!
+
+I enjoy building + making my ideas come to life through code.  
+
+- 🔭 At the moment, I'm working on a weather app.
+- 🌱 I’m currently learning web development using html, css and javascript.
+
+Fun fact: If I'm not coding, I'm probably reading or video editing. 
+
 <!--
 **carolt22/carolt22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
