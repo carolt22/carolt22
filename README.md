@@ -4,7 +4,6 @@ I'm Carol, a recent Computer & Telecommunications graduate!
 
 I enjoy building + making my ideas come to life through code.  
 
-- 🔭 At the moment, I'm working on a weather app.
 - 🌱 I’m currently learning web development using html, css and javascript.
 
 Fun fact: If I'm not coding, I'm probably reading or video editing. 
